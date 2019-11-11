@@ -37,29 +37,29 @@ subtitle = ""
   name = "Investigations"
   
 [[feature]]
-  icon = "users"
+  icon = "landmark"
   icon_pack = "fas"
-  name = "User Experience"
-  
+  name = "Public Records/FOIA"
+
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Teaching"
-  
-[[feature]]
-  icon = "landmark"
-  icon_pack = "fas"
-  name = "Public Records/FOIA"
-  
+
 [[feature]]
   icon = "balance-scale-right"
   icon_pack = "fas"
   name = "Afflicting the Comfortable"
-  
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "User Experience"  
+
 [[feature]]
   icon = "lightbulb"
   icon_pack = "fas"
-  name = "Innovation"
+  name = "Scrum/Agile"
   
 [[feature]]
   icon = "database"
