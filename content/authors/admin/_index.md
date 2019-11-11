@@ -45,7 +45,7 @@ user_groups:
 
 Aaron Kessler is an award-winning journalist, teacher and project leader specializing in investigative reporting and data analysis at the intersection of business and politics. 
 
-He has 15 years of experience as a data journalist, beat reporter and newsroom innovator covering a range of complex government and business subjects including health care, finance, technology, transportation, housing, education and politics.
+He has more than a decade of experience as a data journalist, beat reporter and newsroom innovator covering a range of complex government and business subjects including health care, finance, technology, transportation, housing, education and politics.
 
 Aaron doubles as both a seasoned shoe-leather reporter and writer, as well as an industry-leading data practitioner and coder - using those combined skills to discover stories, uncover new knowledge and share the truth behind critical issues of public importance.
 
