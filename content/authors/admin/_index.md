@@ -49,7 +49,7 @@ He has 15 years of experience as a data journalist, beat reporter and newsroom i
 
 Aaron doubles as both a seasoned shoe-leather reporter and writer, as well as an industry-leading data practitioner and coder - using those combined skills to discover stories, uncover new knowledge and share the truth behind critical issues of public importance.
 
-He's especially a fan of R, though uses a wide range of data tools and programing structures, and loves conceptualizing and building data-driven interactive experiences for news audiences.
+He's especially a fan of R, though uses a wide range of data tools and programming structures, and loves conceptualizing and building data-driven interactive experiences for news audiences.
 
 Additionally, he's led projects and initiatives to develop more innovative journalism workflows and to create tools aimed at harnessing the power of code within the newsroom. 
 
