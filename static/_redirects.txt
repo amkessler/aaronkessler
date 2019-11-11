@@ -1,0 +1,3 @@
+http://aaron.rbind.io/*    https://aaron.rbind.io/:splat  301!
+https://aaronmkessler.netlify.com/*  https://aaron.rbind.io/:splat  301!
+http://aaronmkessler.netlify.com/*   https://aaron.rbind.io/:splat  301!
