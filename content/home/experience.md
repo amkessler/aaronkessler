@@ -25,10 +25,11 @@ date_format = "Jan 2006"
   date_start = "2016-11-15"
   date_end = "2019-10-31"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
-  * Analysing
   * Reporting
+  * Analyzing Data
+  * Writing Programs
   * Leading Initiatives
   * Training
   
