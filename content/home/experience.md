@@ -42,6 +42,10 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2016-01-01"
   date_end = ""
-  description = """Teach data journalism in the School of Media & Public Affairs."""
+  description = """
+  Teach data journalism course in the School of Media & Public Affairs. 
+  
+  
+  """
 
 +++
