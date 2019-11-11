@@ -37,7 +37,7 @@ subtitle = ""
   name = "Investigations"
   
 [[feature]]
-  icon = "user-secret"
+  icon = "users"
   icon_pack = "fas"
   name = "User Experience"
   
@@ -45,6 +45,11 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Teaching"
+  
+[[feature]]
+  icon = "landmark"
+  icon_pack = "fas"
+  name = "Public Records/FOIA"
   
 [[feature]]
   icon = "balance-scale-right"
@@ -62,14 +67,16 @@ subtitle = ""
   name = "SQL/Databases"
   
 [[feature]]
-  icon = "python"
+  icon = "palette"
   icon_pack = "fas"
-  name = "Python"
+  name = "Web Development"
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
-  name = "Public Records/FOIA"
+  icon_pack = "fab"
+  name = "Python"
+  
+
 
 
 
