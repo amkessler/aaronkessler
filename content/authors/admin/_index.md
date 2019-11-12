@@ -53,11 +53,7 @@ He's especially a fan of R, though uses a wide range of data tools and programmi
 
 Additionally, he's led projects and initiatives to develop more innovative journalism workflows and to create tools aimed at harnessing the power of code within the newsroom. 
 
-Aaron is also a Certified Scrum Master (CSM) who believes self-organized, empowered teams can fuel innovation not just in technology-driven settings but also for news reporting projects. 
+Aaron is also a Certified Scrum Master (CSM) who believes self-organized, empowered teams can fuel innovation not just in technology-driven settings but also for news reporting projects. He completed the elite Knight-Bagehot Fellowship in Business & Economics Journalism - one year of full-time MBA coursework at Columbia Business School for rigorous training in management, leadership and business strategy.
 
-He completed the elite Knight-Bagehot Fellowship in Business & Economics Journalism - where journalists enroll full-time in MBA coursework at Columbia Business School for one year of rigorous training in management, leadership and business strategy.
-
-He's been a longtime member of Investigative Reporters & Editors and frequently speaks and leads training sessions at their national conferences, as well as speaking at at other journalism events around the country. He also teaches a data journalism course at The George Washington University. 
-
-Other memberships he holds include the National Press Club, Project Management Institute, Scrum Alliance and Society of American Business Editors & Writers.
+He also teaches a data journalism course at The George Washington University, and is a longtime member of Investigative Reporters & Editors where he frequently speaks and leads training sessions at their national conferences. Aaron is also an active meber of the National Press Club, Project Management Institute, Scrum Alliance and Society of American Business Editors & Writers.
 
