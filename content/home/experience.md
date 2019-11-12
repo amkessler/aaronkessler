@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = ""
   description = """
-  Teach data journalism course in the School of Media & Public Affairs. 
+  Data journalism course at GWU's School of Media & Public Affairs 
   
   """
   
