@@ -42,17 +42,17 @@ date_format = "Jan 2006"
   """
 
 
-[[experience]]
-  title = "Professor (Adjunct)"
-  company = "The George Washington University"
-  company_url = "https://smpa.gwu.edu/"
-  location = "Washington, DC"
-  date_start = "2016-01-01"
-  date_end = ""
-  description = """
-  Data journalism course at GWU's School of Media & Public Affairs 
-  
-  """
+# [[experience]]
+#   title = "Professor (Adjunct)"
+#   company = "The George Washington University"
+#   company_url = "https://smpa.gwu.edu/"
+#   location = "Washington, DC"
+#   date_start = "2016-01-01"
+#   date_end = ""
+#   description = """
+#   Data journalism course at GWU's School of Media & Public Affairs 
+#   
+#   """
   
 [[experience]]
   title = "National Investigative Producer"
