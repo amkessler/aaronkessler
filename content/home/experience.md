@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   Responsibilities included:
   
 * Covering legislation, regulation and technology related to autos/transportation, and producing rolling investigations related to dangerous auto defects, faulty guardrails and other topics
-* Writing, developing sources and/or producing stories and original reporting scoops on a daily basis
+* Writing, developing sources and/or producing stories and original reporting scoops on a daily basis as a full-time contractor 
 * Reporting on Congressional committees and executive agencies including NHTSA, EPA, FHWA, FCC and Treasury
 * Investigating faulty guardrails and exposing cover-ups related to their dangerous use on American highways
 * Breaking news and producing investigative/enterprise stories on auto safety, technology and environmental issues
