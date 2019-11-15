@@ -49,7 +49,7 @@ subtitle = ""
 [[feature]]
   icon = "balance-scale-right"
   icon_pack = "fas"
-  name = "Afflicting the Comfortable"
+  name = "Federal Courts"
 
 [[feature]]
   icon = "users"
