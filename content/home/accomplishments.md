@@ -132,7 +132,7 @@ date_format = "2006"
   description = "(One of three reporters with bylines on winning stories submitted)"
 
 [[item]]
-  organization = "Nominated by ProPublica and the Herald-Tribune"
+  organization = "Nominated by ProPublica and the Sarasota Herald-Tribune"
   organization_url = ""
   title = "Nominee for the Pulitzer Prize"
   url = ""

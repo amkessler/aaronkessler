@@ -121,7 +121,7 @@ date_format = "Jan 2006"
 * Covering residential real estate, including pricing trends, the mortgage crisis, white-collar crime and other issues related to the housing market’s collapse and subsequent attempt to recover
 *	Breaking scoops and producing numerous investigative stories involving fraud and corruption, including contaminated Chinese drywall used to build thousands of U.S. homes, mortgage fraud schemes and real estate auction scams
 *	Producing more than 100 stories over two years as part of a rolling investigation into Chinese drywall
-*	Covering the federal multi-district litigation in New Orleans surrounding the defective drywall, and successfully developing sources among the attorneys and advocates for both sides, as well as the presiding federal district judge himself 
+*	Covering the federal multi-district litigation in New Orleans surrounding the defective drywall, and successfully developing sources among the attorneys and parties on both sides  
 *	Conceptualizing and collaborating on building out interactive, data-driven web experiences to accompany business stories 
  
   """   
