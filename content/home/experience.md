@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   Responsibilities included:
   
 * Conducting investigative reporting and data analysis for national stories out of the Scripps Washington bureau, including award-winning probes of corruption and illegal opioid prescriptions at a Veterans Administration facility
-* Responsibility for cultivating key sources within the DEA that allowed us to report on illegal prescriptions by federal govt official
+* Responsibility for cultivating key sources within the DEA to report on illegal prescriptions by federal government official
 * Investigating and building a cross-border database of all physicians cited for medical misconduct in the U.S. and Canada that uncovered sexual abuses by doctors who then fled to another state, or to Canada, and kept practicing
 
   
@@ -86,8 +86,8 @@ date_format = "Jan 2006"
 * Reporting on Congressional committees and executive agencies including NHTSA, EPA, FHWA, FCC and Treasury
 * Investigating faulty guardrails and exposing cover-ups related to their dangerous use on American highways
 * Breaking news and producing investigative/enterprise stories on auto safety, technology and environmental issues
-* Covering the six-week federal trial of former AIG chief Hank Greenberg, who sued the U.S. government over the financial bailout
-* Shooting and producing video for the NYT’s website as well as their social platforms 
+* Covering the six-week federal trial of former AIG chief Hank Greenberg, who sued the U.S. government over the 2008/2009 financial bailout
+* Shooting and producing video for the NYT’s website as well as its social platforms 
 
   """ 
 
