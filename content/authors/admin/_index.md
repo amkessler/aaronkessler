@@ -21,7 +21,6 @@ interests:
 - Teaching/Training
 - Goverment & Politics
 - Business & Economics
-- Holding the Powerful Accountable
 name: Aaron M. Kessler
 # organizations:
 # - name: ""
@@ -47,13 +46,13 @@ Aaron Kessler is an award-winning journalist, teacher and project leader special
 
 He has more than a decade of experience as a data journalist, beat reporter and newsroom innovator covering a range of complex government and business subjects including health care, finance, technology, transportation, housing, education and politics.
 
-Aaron doubles as both a seasoned shoe-leather reporter and writer, as well as an industry-leading data practitioner and coder - using those combined skills to discover stories, uncover new knowledge and share the truth behind critical issues of public importance.
+Aaron doubles as both a seasoned shoe-leather reporter and writer, as well as an industry-leading data practitioner and coder. He uses those combined skills to discover stories, uncover new knowledge and share the truth behind critical issues of public importance.
 
 He's especially a fan of R, though uses a wide range of data tools and programming structures, and loves conceptualizing and building data-driven interactive experiences for news audiences.
 
 Additionally, he's led projects and initiatives to develop more innovative journalism workflows and to create tools aimed at harnessing the power of code within the newsroom. 
 
-Aaron is also a Certified Scrum Master (CSM) who believes self-organized, empowered teams can fuel innovation not just in technology-driven settings but also for news reporting projects. He completed the elite Knight-Bagehot Fellowship in Business & Economics Journalism - one year of full-time MBA coursework at Columbia Business School for rigorous training in management, leadership and business strategy.
+Aaron is also a Certified Scrum Master who believes self-organized, empowered teams can fuel innovation not just in technology-driven settings but also for news reporting projects. He completed the elite Knight-Bagehot Fellowship in Business & Economics Journalism, a one year program of full-time MBA coursework at Columbia Business School for rigorous training in management, leadership and business strategy.
 
-He also teaches data journalism at The George Washington University, and is a longtime member of Investigative Reporters & Editors where he frequently speaks and leads training sessions at their national conferences. Aaron is also an active member of the National Press Club, Project Management Institute, Scrum Alliance and Society for Advancing Business Editors & Writers.
+He also teaches data journalism at The George Washington University, and is a longtime member of Investigative Reporters & Editors where he frequently speaks and leads training sessions at its national conferences. Aaron is also an active member of the National Press Club, Project Management Institute, Scrum Alliance and Society for Advancing Business Editors & Writers.
 

@@ -32,11 +32,11 @@ date_format = "Jan 2006"
 *	Leading efforts to use data analysis to cover the 2018 and 2020 campaigns 
 *	Developing data-driven stories on topics ranging from corporate and government malfeasance, to executive agency and White House irregularities and financial ties, to campaign finance, opioid abuse, immigration and environmental policies 
 *	Overseeing the successful development of CNN’s first in-house federal campaign finance database to allow for exclusive enterprise stories 
-*	Managing effort to bring textual analysis and machine learning to bear on ongoing reporting efforts, such as building and analyzing extensive document collections including federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
+*	Managing effort to utilize textual analysis and machine learning for ongoing reporting efforts, such as building and analyzing extensive document collections including federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
 *	Writing software tools for the newsroom to aid in election/political coverage, including a presidential candidate travel tracker, House district demographic profile databases, Congressional vote comparison tool, Trump financial disclosure application, White House salary comparisons and Trump “falsehood” tracker application
 *	Coordinating data reporting efforts across beat teams and digital/TV divide to increase collaboration across traditional silos 
 *	Initiating and developing collaborative relationship between the newsroom and the company’s Atlanta-based data science team to fuel innovative ways to pursue investigations, such as for election security, Congressional action and opioid-related projects  
-*	Leading in-house training sessions and mentor DC bureau colleagues on investigative and data journalism techniques
+*	Leading in-house training sessions and mentoring colleagues on investigative and data journalism techniques
 
   
   """
