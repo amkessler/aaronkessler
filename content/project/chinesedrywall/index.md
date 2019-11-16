@@ -4,7 +4,7 @@ external_link: https://www.dropbox.com/s/dbqgb7ytowpw3ez/Kessler-Drywall-2009sel
 image:
   caption: 
   focal_point: Smart
-summary: Stories from first year of a two-year investigation into contaminated Chinese-made drywall used in thousands of homes
+summary: Stories from year one of a two-year investigation into contaminated Chinese-made drywall used in thousands of homes
 tags:
 - Investigations
 title: Chinese Drywall - First Year
