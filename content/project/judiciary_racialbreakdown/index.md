@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Analysis of how Trump's judicial picks lack decades-long diversity drive
 tags:
-- Investigative
+- Judiciary
 title: Trump's judiciary and race
 ---

@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Investigation into the stunning lack of transparency aroundn federal judges' misconduct
 tags:
-- Investigative
+- Judiciary
 title: Sexual misconduct by judges kept under wraps
 ---
