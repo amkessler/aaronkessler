@@ -7,5 +7,6 @@ image:
 summary: Investigation into the stunning lack of transparency around federal judges' misconduct
 tags:
 - Investigative
+- Judiciary
 title: Sexual misconduct by judges kept under wraps
 ---
