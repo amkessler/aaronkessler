@@ -8,5 +8,5 @@ summary: Investigation found doctors receiving more perks from opioid makers wro
 tags:
 - Investigative
 - Health
-title: Opioid industry payments to doctors  
+title: Opioid industry payments to doctors (w/ video)  
 ---
