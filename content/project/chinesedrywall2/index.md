@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Stories from year two of a two-year investigation into contaminated Chinese-made drywall used in thousands of homes
 tags:
-- Investigations
+- Investigative
 title: Chinese Drywall - Second Year
 ---
