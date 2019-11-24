@@ -1,5 +1,5 @@
 ---
-date: "2016-01-01T00:00:00Z"
+date: "2016-04-26T00:00:00Z"
 external_link: https://www.cnn.com/2019/03/05/politics/medicare-for-all-green-new-deal-democrats-left-progressive/index.html
 image:
   caption: 
