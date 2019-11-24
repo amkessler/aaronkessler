@@ -32,6 +32,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Politics"
     tag = "Politics"
+    
+  [[content.filter_button]]
+    name = "Health"
+    tag = "Health"
+
+  [[content.filter_button]]
+    name = "Judiciary"
+    tag = "Judiciary"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
