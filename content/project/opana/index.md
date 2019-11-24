@@ -7,5 +7,6 @@ image:
 summary: How a drugmaker is set to profit from an opioid it said was unsafe
 tags:
 - Investigative
-title: Opana Investigation - Pt. 1
+- Health
+title: Opana Investigation 
 ---

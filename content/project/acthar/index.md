@@ -7,5 +7,6 @@ image:
 summary: Investigation into how an extremely expensive drug designed for infant seizures was dubiously marketed to the elderly
 tags:
 - Investigative
+- Health
 title: Medicare spent $2B for one drug as manufacturer paid doctors millions
 ---

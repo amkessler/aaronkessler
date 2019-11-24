@@ -7,5 +7,6 @@ image:
 summary: Investigation into how Interior Secretary Ryan Zinke kept secret meetings off his public calendar
 tags:
 - Investigative
+- Politics
 title: Interior Dept Secret Meetings
 ---

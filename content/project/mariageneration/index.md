@@ -7,5 +7,6 @@ image:
 summary: Investigation into the mental health toll on young people in Puerto Rico after Hurricane Maria
 tags:
 - Investigative
+- Health
 title: The Maria Generation
 ---

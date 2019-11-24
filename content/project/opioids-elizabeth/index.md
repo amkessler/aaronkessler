@@ -7,5 +7,6 @@ image:
 summary: Investigation found doctors receiving more perks from opioid makers wrote more prescriptions for the drugs
 tags:
 - Investigative
+- Health
 title: Opioid industry payments to doctors  
 ---

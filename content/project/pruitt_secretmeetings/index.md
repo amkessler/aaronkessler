@@ -7,5 +7,6 @@ image:
 summary: Conducted textual/NLP analysis of tens of thousands of documents to identify instances of the EPA administrator's secret meetings
 tags:
 - Investigative
+- Politics
 title: Scott Pruitt's Secret Meetings (w/ Video)
 ---
