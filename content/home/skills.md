@@ -52,9 +52,9 @@ subtitle = ""
   name = "Federal Courts"
 
 [[feature]]
-  icon = "users"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "User Experience"  
+  name = "Machine Learning"  
 
 [[feature]]
   icon = "lightbulb"
