@@ -7,5 +7,6 @@ image:
 summary: Investigative project detailing how droughts are a key push factor in migrants from Honduras heading for the United States
 tags:
 - Investigative
+- Judiciary
 title: Climate-change driven migration (w/ video)
 ---
