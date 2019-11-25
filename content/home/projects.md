@@ -38,7 +38,7 @@ subtitle = ""
     tag = "Health"
 
   [[content.filter_button]]
-    name = "Judiciary"
+    name = "Justice"
     tag = "Judiciary"
 
 [design]
