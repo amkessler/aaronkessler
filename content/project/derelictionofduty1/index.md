@@ -4,7 +4,7 @@ external_link: https://medium.com/scripps-national-investigations/whistleblowers
 image:
   caption: 
   focal_point: Smart
-summary: Investigation into significant problems at the Cinncinati VA hospital 
+summary: Investigation into significant problems at the Cinncinati VA hospital, including senior leader prescribing opioids without a license
 tags:
 - Investigative
 - Health
