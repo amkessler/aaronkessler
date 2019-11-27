@@ -27,15 +27,15 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-*	Reporting and analyzing data for investigative and shorter-turn projects throughout CNN, including environmental, pharmaceutical, judicial and politics efforts
-*	Leading efforts to use data analysis to cover the 2018 and 2020 political campaigns 
-*	Developing data-driven stories on topics ranging from corporate and government malfeasance, to executive agency irregularities and financial ties, to campaign finance, political advertising, opioid abuse, immigration and environmental policies 
+*	Reporting and analyzing data for investigative and shorter-turn projects throughout CNN, including environmental, health, judicial, immigration and politics teams
+*	Leading efforts to use data analysis for coverage of the 2018 and 2020 political campaigns 
+*	Developing data-driven stories on topics including corporate and government malfeasance, executive agency irregularities, campaign finance, political advertising, election security, opioid abuse, immigration and environmental policies 
 *	Coordinating data reporting efforts across beat teams and digital/TV divide to increase collaboration across traditional silos 
-*	Overseeing the successful development of CNN’s first in-house federal campaign finance database to allow for exclusive enterprise stories 
-*	Mastering and synthesizing campaign-related datasets including FEC contributions and expenditures, Kantar/CMAG television ads, Facebook campaign ads, Twitter activity, US Census demographics, BLS and FRED economic indicators, public opinion polling, voter registrations including L2 National Voter File and Catalist early voting data products
+*	Overseeing the successful development of the network's first in-house federal campaign finance database, allowing for exclusive enterprise stories 
+*	Mastering and synthesizing campaign-related datasets, including FEC contributions and expenditures, Kantar/CMAG television ads, Facebook campaign ads, Twitter activity, US Census demographics, BLS and FRED economic indicators, public opinion polling, L2 national voter file and Catalist early voting data products
 *	Developing newsroom tools to aid in election coverage, including a presidential candidate travel tracker, generic ballot polling application, approval rating polling application, House district demographic profile project, Congressional vote/bill-sponsor analysis project, Trump financial disclosure interactive application and Trump fact-check application
 * Using digital forensics tools to report on multiple Trump administration officials, including a rolling investigation of former EPA administrator Scott Pruitt
-*	Managing effort to utilize textual analysis and machine learning for ongoing reporting efforts, such as building and analyzing extensive document collections including federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
+*	Managing effort to utilize textual analysis and machine learning for ongoing reporting efforts, such as building and analyzing extensive document collections of federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
 *	Leading in-house training sessions and mentoring colleagues on investigative and data journalism techniques
 
   
