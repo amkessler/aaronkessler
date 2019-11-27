@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities included:
   
 *	Reporting and analyzing data for investigative and shorter-turn projects throughout CNN, including environmental, health, judicial, immigration and politics efforts
-*	Leading efforts to use data analysis for coverage of the 2018 and 2020 political campaigns 
+*	Leading endeavors to use data analysis for innovative coverage of the 2018 and 2020 political campaigns 
 *	Developing data-driven stories on topics including corporate and government malfeasance, executive agency irregularities, campaign finance, political advertising, election security, opioid abuse, immigration and environmental policies 
 *	Coordinating data reporting efforts across beat teams and digital/TV divide to increase collaboration across traditional silos 
 *	Overseeing the successful development of the network's first in-house federal campaign finance database, allowing for exclusive enterprise stories 
