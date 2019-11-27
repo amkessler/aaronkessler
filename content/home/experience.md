@@ -28,14 +28,14 @@ date_format = "Jan 2006"
   Responsibilities included:
   
 *	Reporting and analyzing data for investigative and shorter-turn projects throughout CNN, including environmental, pharmaceutical, judicial and politics efforts
-* Using textual analysis and digital forensics tools to report on multiple Trump administration officials, including a rolling investigation of former EPA administrator Scott Pruitt
-*	Leading efforts to use data analysis to cover the 2018 and 2020 campaigns 
-*	Developing data-driven stories on topics ranging from corporate and government malfeasance, to executive agency and White House irregularities and financial ties, to campaign finance, opioid abuse, immigration and environmental policies 
-*	Overseeing the successful development of CNN’s first in-house federal campaign finance database to allow for exclusive enterprise stories 
-*	Managing effort to utilize textual analysis and machine learning for ongoing reporting efforts, such as building and analyzing extensive document collections including federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
-*	Writing software tools for the newsroom to aid in election/political coverage, including a presidential candidate travel tracker, House district demographic profile databases, Congressional vote comparison tool, Trump financial disclosure application, White House salary comparisons and Trump “falsehood” tracker application
+*	Leading efforts to use data analysis to cover the 2018 and 2020 political campaigns 
+*	Developing data-driven stories on topics ranging from corporate and government malfeasance, to executive agency irregularities and financial ties, to campaign finance, political advertising, opioid abuse, immigration and environmental policies 
 *	Coordinating data reporting efforts across beat teams and digital/TV divide to increase collaboration across traditional silos 
-*	Initiating and developing collaborative relationship between the newsroom and the company’s Atlanta-based data science team to fuel innovative ways to pursue investigations, such as for election security, Congressional action and opioid-related projects  
+*	Overseeing the successful development of CNN’s first in-house federal campaign finance database to allow for exclusive enterprise stories 
+•	Mastering and synthesizing campaign-related datasets including FEC contributions and expenditures, Kantar/CMAG television ads, Facebook campaign ads, Twitter activity, US Census demographics, BLS and FRED economic indicators, public opinion polling, voter registrations including L2 National Voter File and Catalist early voting data products
+*	Developing and building newsroom tools to aid in election/political coverage, including a presidential candidate travel tracker, generic ballot polling application, approval rating polling application, House district demographic profile project, Congressional vote/bill-sponsor analysis project, Trump financial disclosure interactive application and Trump fact-check application
+* Using digital forensics tools to report on multiple Trump administration officials, including a rolling investigation of former EPA administrator Scott Pruitt
+*	Managing effort to utilize textual analysis and machine learning for ongoing reporting efforts, such as building and analyzing extensive document collections including federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
 *	Leading in-house training sessions and mentoring colleagues on investigative and data journalism techniques
 
   
