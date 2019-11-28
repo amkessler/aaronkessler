@@ -4,8 +4,8 @@ external_link: https://www.nytimes.com/2015/05/21/business/confusion-reigns-in-a
 image:
   caption: 
   focal_point: Smart
-summary: For Drivers, Confusion Reigns in Takata Airbag Recall 
+summary: Automakers were still sorting out which cars needed to be included in the expanded recall, leaving many consumers with more questions than answers
 tags:
 - Automotive
-title: Takata airbags
+title: Confusion Reigns in Takata Airbag Recall
 ---

@@ -1,11 +1,11 @@
 ---
 date: "2013-12-30T00:00:00Z"
-external_link: https://www.nytimes.com/2015/05/21/business/confusion-reigns-in-airbag-recall.html
+external_link: https://www.nytimes.com/2014/12/04/business/house-hearing-takata-airbags.html
 image:
   caption: 
   focal_point: Smart
-summary: Honda to Expand Airbag Recall Nationwide as Takata Resists 
+summary: Even as Takata continued to resist demands to recall its airbags nationwide, Honda said it would take that action on its own and use replacements from other suppliers if necessary
 tags:
 - Automotive
-title: Takata airbags (2)
+title: Honda Expands Airbag Recall Nationwide as Takata Resists 
 ---
