@@ -4,8 +4,8 @@ external_link: https://dealbook.nytimes.com/2014/09/23/as-ex-chief-of-a-i-g-sues
 image:
   caption: 
   focal_point: Smart
-summary: Wall Street bankrolls ex-executive as he sues over AIG bailout, claiming the federal government should pay him billions
+summary: Six years after the government saved Wall Street from the brink of collapse, the lawsuit came to trial, reopening one of the ugliest chapters in modern financial history
 tags:
 - Judiciary
-title: AIG trial coverage (1)
+title: Wall Street bankrolls ex-executive as he sues over AIG bailout
 ---

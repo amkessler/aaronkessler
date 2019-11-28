@@ -4,8 +4,8 @@ external_link: https://dealbook.nytimes.com/2014/09/29/a-i-g-trial-witnesses-wil
 image:
   caption: 
   focal_point: Smart
-summary: AIG's trial witnesses will be the central cast from 2008 financial crisis
+summary: Six years after the government rescued the American International Group from the brink of collapse, the bailout came under a new microscope with the opening of an unusual trial that challenges the legality of the government’s actions
 tags:
 - Judiciary
-title: AIG trial coverage (2)
+title: AIG Trial Witnesses Will Be Central Cast From 2008 Crisis
 ---
