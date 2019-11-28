@@ -4,8 +4,8 @@ external_link: https://www.nytimes.com/2015/05/03/business/hands-free-cars-take-
 image:
   caption: 
   focal_point: Smart
-summary: Hands-Free Cars Take Wheel, and Law Isn’t Stopping Them
+summary: Semi-autonomous technology has sprinted ahead so fast that lawmakers and regulators are scrambling to catch up 
 tags:
 - Automotive
-title: Autonomous Driving Oversight
+title: Hands-Free Cars Take Wheel, and Law Isn’t Stopping Them
 ---

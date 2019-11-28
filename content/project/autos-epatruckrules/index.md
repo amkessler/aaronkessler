@@ -4,7 +4,7 @@ external_link: https://www.nytimes.com/2015/05/31/business/energy-environment/ep
 image:
   caption: 
   focal_point: Smart
-summary: Story examining the EPA's proposed regulations to cut greenhouse gas emissions from heavy-duty trucks, requiring that their fuel economy increase up to 40 percent by 2027.
+summary: Story examining the EPA's proposed regulations to cut greenhouse gas emissions from heavy-duty trucks
 tags:
 - Automotive
 title: EPA Proposal Will Put Bigger Trucks on a Fuel Diet

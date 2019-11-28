@@ -4,7 +4,7 @@ external_link: https://www.nytimes.com/2015/05/21/business/confusion-reigns-in-a
 image:
   caption: 
   focal_point: Smart
-summary: Automakers were still sorting out which cars needed to be included in the expanded recall, leaving many consumers with more questions than answers
+summary: Automakers were still sorting out which cars needed to be included in the expanded recall, leaving many consumers bewildered
 tags:
 - Automotive
 title: Confusion Reigns in Takata Airbag Recall

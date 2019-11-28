@@ -4,9 +4,9 @@ external_link: https://www.nytimes.com/2015/07/20/business/senate-committees-no-
 image:
   caption: 
   focal_point: Smart
-summary: Senate Committee’s No Vote Incenses Lawmakers Seeking Auto Safety Reforms
+summary: The push to impose criminal penalties on auto executives who fail to disclose deadly automobile defects hit another roadblock 
 tags:
 - Automotive
 - Judiciary
-title: Action on Auto Defects Stalls
+title: No Vote Incenses Lawmakers Seeking Auto Safety Reforms
 ---
