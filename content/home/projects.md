@@ -41,6 +41,10 @@ subtitle = ""
     name = "Justice"
     tag = "Judiciary"
 
+  [[content.filter_button]]
+    name = "Automotive"
+    tag = "Automotive"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
