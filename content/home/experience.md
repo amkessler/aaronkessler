@@ -29,10 +29,10 @@ date_format = "Jan 2006"
   
 *	Reporting and analyzing data for investigative and shorter-turn projects throughout CNN, including environmental, health, judicial, immigration and politics efforts
 *	Leading endeavors to use data analysis for innovative coverage of the 2018 and 2020 political campaigns 
+*	Mastering, synthesizing and analyzing campaign-related datasets, including Federal Election Commission records, Kantar/CMAG television ads, Facebook campaign ads, Twitter activities, US Census demographics, BLS and FRED economic indicators, public opinion polling, L2 national voter file and Catalist early voting data products
 *	Developing data-driven stories on topics including corporate and government malfeasance, executive agency irregularities, campaign finance, political advertising, election security, opioid abuse, immigration and environmental policies 
 *	Coordinating data reporting efforts across beat teams and digital/TV divide to increase collaboration across traditional silos 
 *	Overseeing the successful development of the network's first in-house federal campaign finance database, allowing for exclusive enterprise stories 
-*	Mastering and synthesizing campaign-related datasets, including FEC contributions and expenditures, Kantar/CMAG television ads, Facebook campaign ads, Twitter activity, US Census demographics, BLS and FRED economic indicators, public opinion polling, L2 national voter file and Catalist early voting data products
 *	Developing newsroom tools to aid in election coverage, including a presidential candidate travel tracker, generic ballot polling application, approval rating polling application, House district demographic profile project, Congressional vote/bill-sponsor analysis project, Trump financial disclosure interactive application and Trump fact-check application
 * Using digital forensics tools to report on multiple Trump administration officials, including a rolling investigation of former EPA administrator Scott Pruitt
 *	Managing effort to utilize textual analysis and machine learning for ongoing reporting efforts, such as building and analyzing extensive document collections of federal agency email communications, Supreme Court nominee historical records and malicious Twitter activity by foreign actors 
