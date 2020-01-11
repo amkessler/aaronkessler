@@ -18,6 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Investigative Data Journalist"
+  company = "Bloomberg Industry Group"
+  company_url = ""
+  location = "Washington, DC area"
+  date_start = "2020-01-06"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+* Conducting investigative reporting and data analysis for stories involving federal agencies, Congress, elections, lobbying and government contracts
+* Collaborating with editors and reporters across newsroom departments, including Bloomberg Government, Bloomberg Environment and Bloomberg Law
+* Cultivating key sources within the political, regulatory and business worlds
+* Obtaining federal agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
+* Reporting and writing stories that expose issues of waste, fraud and abuse
+* Utilizing Bloomberg's vast troves of financial data to fuel enterprise reporting efforts throughout the organization
+* Developing innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
+* Write software to analyze data and build reporting tools in reproducible ways 
+* Conducting training in data journalism and investigative techniques throughout the newsroom
+
+  
+  """  
+
+
+[[experience]]
   title = "Senior Producer"
   company = "CNN"
   company_url = "https://www.cnn.com/"
