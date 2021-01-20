@@ -47,9 +47,9 @@ subtitle = ""
   name = "Teaching"
 
 [[feature]]
-  icon = "balance-scale-right"
+  icon = "globe-americas"
   icon_pack = "fas"
-  name = "Federal Courts"
+  name = "Geospatial/Mapping"
 
 [[feature]]
   icon = "laptop-code"
