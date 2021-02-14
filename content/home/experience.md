@@ -27,15 +27,15 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-* Conducting investigative reporting and data analysis for stories involving federal agencies, Congress, elections, lobbying and government contracts
-* Collaborating with editors and reporters across newsroom departments, including Bloomberg Government, Bloomberg Environment and Bloomberg Law
+* Conducting investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, elections, lobbying and government contracts
+* Developing innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
+* Writing software to analyze data and build reporting tools in reproducible ways 
+* Collaborating with editors and reporters across departments/verticals at Bloomberg Industry Group, Bloomberg News and CityLab
 * Cultivating key sources within the political, regulatory and business worlds
-* Obtaining federal agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
+* Obtaining agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
 * Reporting and writing stories that expose issues of waste, fraud and abuse
 * Utilizing Bloomberg's vast troves of financial data to fuel enterprise reporting efforts throughout the organization
-* Developing innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
-* Write software to analyze data and build reporting tools in reproducible ways 
-* Conducting training in data journalism and investigative techniques throughout the newsroom
+* Conducting training in data journalism and investigative techniques for newsroom colleagues
 
   
   """  
