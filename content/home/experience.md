@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-*	Reporting and analyzing data for investigative and shorter-turn projects throughout CNN, including environmental, health, judicial, immigration and politics efforts
+*	Reporting and analyzing data for investigative and enterprise projects throughout CNN, including environmental, health, judicial, immigration and politics efforts
 *	Leading endeavors to use data analysis for innovative coverage of the 2018 and 2020 political campaigns 
 *	Mastering, synthesizing and analyzing campaign-related datasets, including Federal Election Commission records, Kantar/CMAG television ads, Facebook campaign ads, Twitter activities, US Census demographics, BLS and FRED economic indicators, public opinion polling, L2 national voter file and Catalist early voting data products
 *	Developing data-driven stories on topics including corporate and government malfeasance, executive agency irregularities, campaign finance, political advertising, election security, opioid abuse, immigration and environmental policies 
