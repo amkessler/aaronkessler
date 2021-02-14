@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-* Conducting investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, elections, lobbying and government contracts
+* Conducting investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, Covid-19, elections, lobbying and government contracts
 * Developing innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
 * Writing software to analyze data and build reporting tools in reproducible ways 
 * Collaborating with editors and reporters across departments/verticals at Bloomberg Industry Group, Bloomberg News and CityLab
