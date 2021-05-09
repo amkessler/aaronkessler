@@ -17,10 +17,10 @@ email: "kessler.aaron@gmail.com"
 interests:
 - Data Journalism
 - Investigative Reporting
+- Interactive Web Experiences
+- GIS
 - Scrum & Agile Workflows
 - Teaching/Training
-- Goverment & Politics
-- Business & Economics
 name: Aaron M. Kessler
 # organizations:
 # - name: ""
