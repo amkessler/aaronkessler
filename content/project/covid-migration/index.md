@@ -4,9 +4,9 @@ external_link: https://www.bloomberg.com/graphics/2021-citylab-how-americans-mov
 image:
   caption: 
   focal_point: Smart
-summary: A year into the Covid-19 pandemic, the clearest picture yet is emerging about how people moved. Turns out there is no urban exodus but instead more of an urban shuffle.
+summary: A year after Covid-19 came to the U.S., the clearest picture yet is emerging about how people moved around the nation
 tags:
 - Investigative
 - Health
-title: More Americans Are Leaving Cities, But Don’t Call It an Urban Exodus
+title: Year Into Pandemic, an "Urban Shuffle" of Migration
 ---
