@@ -69,7 +69,7 @@ subtitle = ""
 [[feature]]
   icon = "palette"
   icon_pack = "fas"
-  name = "Product Development"
+  name = "Web Development"
   
 [[feature]]
   icon = "python"
