@@ -4,7 +4,7 @@ external_link: https://news.bloomberglaw.com/privacy-and-data-security/bikers-fr
 image:
   caption: 
   focal_point: Smart
-summary: Used data analysis immediately after the rally to determine the crowd's origins and communities to which attendees would return.
+summary: An analysis immediately after the biker rally determined the crowd's origins and communities to which attendees would return
 tags:
 - Health
 - Investigative

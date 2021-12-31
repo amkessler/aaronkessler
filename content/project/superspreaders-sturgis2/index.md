@@ -4,7 +4,7 @@ external_link: https://news.bloombergtax.com/health-law-and-business/covid-19-ca
 image:
   caption: 
   focal_point: Smart
-summary: Following the initial story, examined how communities with Sturgis attendees fared a month after the super-spreader event.
+summary: Following the initial story, examined how communities with Sturgis attendees fared a month after the super-spreader event
 tags:
 - Health
 - Investigative
