@@ -1,6 +1,6 @@
 ---
 date: "2021-12-20T00:00:00Z"
-external_link: https://news.bloomberglaw.com/interactive/black-families-leave-cities-for-suburbs-as-barriers-erode
+external_link: https://news.bgov.com/interactive/black-families-leave-cities-for-suburbs-as-barriers-erode
 image:
   caption: 
   focal_point: Smart
