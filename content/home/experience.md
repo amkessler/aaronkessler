@@ -18,24 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Journalist, Elections"
+  company = "The Associated Press"
+  company_url = ""
+  location = "Washington, DC area"
+  date_start = "2022-02-14"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+* Work as part of the AP's national cross-functional data journalism team
+* Use data analysis and programming to cover the changing nature of the American electorate 
+* Report on a range of election-related topics, including campaign finance, election results, voter surpression efforts, disinformation, political campaign strategies and socioeconomic trends 
+* Collaborate with editors and reporters across the AP's various teams and bureaus
+* Work jointly with newsroom developers and designers to create interactive experiences aimed at providing valuable insights to the public
+
+  
+  """  
+
+
+[[experience]]
   title = "Investigative Data Journalist"
   company = "Bloomberg Industry Group"
   company_url = ""
   location = "Washington, DC area"
   date_start = "2020-01-06"
-  date_end = ""
+  date_end = "2022-02-09"
   description = """
   Responsibilities include:
   
-* Conducting investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, Covid-19, elections, lobbying and government contracts
-* Developing innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
-* Writing software to analyze data and build reporting tools in reproducible ways 
-* Collaborating with editors and reporters across departments/verticals at Bloomberg Industry Group, Bloomberg News and CityLab
-* Cultivating key sources within the political, regulatory and business worlds
-* Obtaining agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
-* Reporting and writing stories that expose issues of waste, fraud and abuse
-* Utilizing Bloomberg's vast troves of financial data to fuel enterprise reporting efforts throughout the organization
-* Conducting training in data journalism and investigative techniques for newsroom colleagues
+* Conducted investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, Covid-19, elections, lobbying and government contracts
+* Developed innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
+* Wrote software to analyze data and build reporting tools in reproducible ways 
+* Collaborated with editors and reporters across departments/verticals at Bloomberg Industry Group, Bloomberg News and CityLab
+* Cultivated key sources within the political, regulatory and business worlds
+* Obtained agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
+* Utilized Bloomberg's vast troves of financial data to fuel enterprise reporting efforts throughout the organization
+* Conducted internal training sessions in data journalism and investigative techniques
 
   
   """  

@@ -17,7 +17,7 @@ email: "kessler.aaron@gmail.com"
 interests:
 - Data Journalism
 - Investigative Reporting
-- Interactive Web Experiences
+- Web Development
 - GIS
 - Scrum & Agile Workflows
 - Teaching/Training
