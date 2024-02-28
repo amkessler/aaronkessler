@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/amkessler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aaronkessler.rbind.io
+  * I am amkessler (https://keybase.io/amkessler) on keybase.
+  * I have a public key ASBQW_RqIdTVnz-Zcxa5LqA4EGMcVQ64EFum-3RBZKIJ_go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010187bb87f429994c071bc6e990d004ee9a19b576554d49fd1b0cc1d8a45ec8180e0a",
+      "host": "keybase.io",
+      "kid": "0120505bf46a21d4d59f3f997316b92ea03810631c550eb8105ba6fb744164a209fe0a",
+      "uid": "f833ae4fee422ee6e51c668673387219",
+      "username": "amkessler"
+    },
+    "merkle_root": {
+      "ctime": 1709089415,
+      "hash": "9d298292c69bdede29f10c12081baafba5e1f50e27c0bdeefd30ef07a8016768e4a93489362db152c88612df4ee4aad4a9ff1237e3d3be933dacc848d9b126e8",
+      "hash_meta": "e52404492537594f350c0a768ff628231b178e86be763ed8cbb0544b3cd05cc5",
+      "seqno": 25500542
+    },
+    "service": {
+      "entropy": "xPWj+k6ZOls3pkYfxefbXTYR",
+      "hostname": "aaronkessler.rbind.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.5"
+  },
+  "ctime": 1709089588,
+  "expire_in": 504576000,
+  "prev": "85d1addbb7106d2cc32280c7fe8f519b76c95b0eb7f00c76b31c4331b76e5170",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUFv0aiHU1Z8/mXMWuS6gOBBjHFUOuBBbpvt0QWSiCf4Kp3BheWxvYWTESpcCC8QghdGt27cQbSzDIoDH/o9Rm3bJWw638Ax2sxxDMbduUXDEIARD53yDqysRNnxvLmUVwO16r067bqgPHp50yYaUQuwoAgHCo3NpZ8RAtwZI6GU5/yvLKPfZiDT3kQ4t8jLWc7eAGAGR2xoWfZhGBIyaBP+AH0MKha0TmWtpeQkmW0v8JYhM0W0F8qQDAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOHOm1nv/a9LQ6RxcJ7Sia0TUBVJwzOwE5VzgcGcJyx3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amkessler
+
+==================================================================
