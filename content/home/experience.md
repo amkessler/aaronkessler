@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Senior Producer"
+  title = "Senior Producer, Investigations/Politics"
   company = "CNN"
   company_url = "https://www.cnn.com/"
   location = "Washington, DC"
