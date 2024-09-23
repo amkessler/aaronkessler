@@ -18,7 +18,7 @@ interests:
 - Data Journalism
 - Investigative Reporting
 - Artificial Intelligence
-- GIS
+- Interviewing/Writing
 - Scrum & Agile Workflows
 - Teaching/Training
 name: Aaron M. Kessler
@@ -47,7 +47,7 @@ user_groups:
 
 Aaron Kessler is an award-winning journalist, teacher and project leader specializing in investigative reporting and data analysis at the intersection of business and politics. 
 
-He has more than 15 years of experience as a data journalist, investigative reporter and newsroom innovator covering a range of complex government and business subjects including health care, finance, technology, transportation, housing, education and politics.
+He has nearly 20 years of experience as an investigative reporter, data journalist and newsroom innovator covering a range of complex government and business subjects including politics, health care, finance, technology, transportation, housing and education.
 
 Aaron doubles as both a seasoned shoe-leather reporter and writer, as well as an industry-leading data practitioner and coder. He uses those combined skills to discover stories, uncover new knowledge and share the truth behind critical issues of public importance.
 
@@ -57,5 +57,5 @@ Additionally, he's led projects and initiatives to develop more innovative journ
 
 Aaron's a Certified Scrum Master who believes self-organized, empowered teams can fuel innovation not just in technology-driven settings but also for news reporting projects. He completed the elite Knight-Bagehot Fellowship in Business & Economics Journalism, a one year program of full-time MBA coursework at Columbia Business School for rigorous training in finance, management and leadership.
 
-He also teaches data journalism at The George Washington University, and is a longtime member of Investigative Reporters & Editors for which he frequently speaks and leads training sessions. Aaron is also an active member of the National Press Club, OpenNews, the Project Management Institute, Scrum Alliance and Society for Advancing Business Editors & Writers.
+He's also a longtime member of Investigative Reporters & Editors, for which he served on the board of directors and frequently speaks and leads training sessions. He also taught data journalism at The George Washington University for nearly 10 years.
 
