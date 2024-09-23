@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Journalist"
+  title = "Data/Investigative Journalist"
   company = "The Associated Press"
   company_url = ""
   location = "Washington, DC area"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
 * Work as part of the AP's national cross-functional data journalism team
-* Use data analysis and programming to cover the changing nature of the American electorate 
+* Use data analysis and programming to cover the changing nature of the American electorate
 * Report on a range of election-related topics, including campaign finance, election results, voter surpression efforts, disinformation, political campaign strategies and socioeconomic trends 
 * Collaborate with editors and reporters across the AP's various teams and bureaus
 * Work jointly with newsroom developers and designers to create interactive experiences aimed at providing valuable insights to the public
