@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Certified Scrum Master (CSM)"
   url = ""
   certificate_url = "https://certification.scrumalliance.org/accounts/942196-aaron-kessler/certifications/1068645-csm"
-  # date_start = "2019-05-01"
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
   
@@ -34,7 +34,7 @@ date_format = "2006"
   organization_url = ""
   title = "Gerald Loeb Award for Distinguished Business and Financial Journalism"
   url = ""
-  # date_start = "2011-01-10"
+  date_start = "2011-01-10"
   description = ""
 
 [[item]]
