@@ -4,7 +4,7 @@ external_link: https://apnews.com/article/military-extremism-pentagon-veterans-t
 image:
   caption: 
   focal_point: Smart
-summary: Investigation into extremists with military backgrounds, who make planned attacks more dangerous.
+summary: Investigation into extremists with military backgrounds, who make planned attacks more dangerous
 tags:
 - Investigative
 - Justice
