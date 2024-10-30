@@ -30,8 +30,8 @@ date_format = "Jan 2006"
 * Work as part of the AP's national cross-functional data journalism team
 * Use data analysis and programming to produce stories of public importance 
 * Report on a range of topics, including extremist groups, campaign finance, government spending fraud, disinformation campaigns, political trends and faulty military equipment 
-* Collaborate with editors and reporters across the AP's global teams and bureaus
-* Embedded with the AP's global investigative team and Washington bureau politics team 
+* Collaborate with editors and reporters across the AP's global bureaus
+* Embedded with the AP's investigative team and DC politics team 
 * Work jointly with newsroom developers and designers to create interactive experiences aimed at providing valuable insights to the public
 
   
