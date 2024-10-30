@@ -8,5 +8,5 @@ summary: Data-driven investigation found fraudsters potentially stole more than 
 tags:
 - Investigative
 - Health
-title: The Great Grift: How billions in COVID-19 relief aid was stolen or wasted  
+title: The Great Grift
 ---
