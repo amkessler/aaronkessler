@@ -54,7 +54,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Machine Learning"  
+  name = "AI/Machine Learning"  
 
 [[feature]]
   icon = "lightbulb"
@@ -64,7 +64,7 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL/Databases"
+  name = "Databases"
   
 [[feature]]
   icon = "palette"
