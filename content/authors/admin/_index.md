@@ -30,9 +30,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/akesslerdc
+#- icon: twitter
+#  icon_pack: fab
+#  l#ink: https://twitter.com/akesslerdc
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/aaronmkessler
