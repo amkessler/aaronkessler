@@ -13,7 +13,7 @@ education:
   - course: B.A. in Drama
     institution: Washington University in St. Louis
     # year: 2001
-email: "kessler.aaron@gmail.com"
+email: "kessler.aaron@protonmail.com"
 interests:
 - Data Journalism
 - Investigative Reporting
