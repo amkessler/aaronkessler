@@ -61,20 +61,20 @@ subtitle = ""
   icon_pack = "fas"
   name = "Scrum/Agile"
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Databases"
-  
-[[feature]]
-  icon = "palette"
-  icon_pack = "fas"
-  name = "Web Development"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+# [[feature]]
+#   icon = "database"
+#   icon_pack = "fas"
+#   name = "Databases"
+#   
+# [[feature]]
+#   icon = "palette"
+#   icon_pack = "fas"
+#   name = "Web Development"
+#   
+# [[feature]]
+#   icon = "python"
+#   icon_pack = "fab"
+#   name = "Python"
   
 
 
