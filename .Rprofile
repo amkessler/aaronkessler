@@ -1,5 +1,9 @@
 # in .Rprofile of the website project
-if (file.exists("~/.Rprofile")) {
+#
+# Keep project startup independent of machine-level R profile settings. To opt in
+# to sourcing ~/.Rprofile for this project, set:
+# AARONKESSLER_SOURCE_USER_RPROFILE=true
+if (identical(Sys.getenv("AARONKESSLER_SOURCE_USER_RPROFILE"), "true") && file.exists("~/.Rprofile")) {
   base::sys.source("~/.Rprofile", envir = environment())
 }
 
@@ -10,6 +14,5 @@ options(
   blogdown.yaml.empty = TRUE,
   blogdown.new_bundle = TRUE,
   blogdown.title_case = TRUE,
-  blogdown.hugo.version = "0.91.2"
+  blogdown.hugo.version = "0.59.1"
 )
-
