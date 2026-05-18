@@ -1,5 +1,5 @@
 ---
-date: "2021-12-20T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 external_link: https://news.bgov.com/interactive/black-families-leave-cities-for-suburbs-as-barriers-erode
 image:
   caption: 
