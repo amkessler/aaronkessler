@@ -18,17 +18,16 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Scrum Alliance"
-  organization_url = "https://www.scrumalliance.org/"
-  title = "Certified Scrum Master (CSM)"
-  url = ""
-  # certificate_url = "https://certification.scrumalliance.org/accounts/942196-aaron-kessler/certifications/1068645-csm"
-  date_start = "2019-05-01"
-  date_end = ""
-  description = ""
+# [[item]]
+#   organization = "Scrum Alliance"
+#   organization_url = "https://www.scrumalliance.org/"
+#   title = "Certified Scrum Master (CSM)"
+#   url = ""
+#   # certificate_url = "https://certification.scrumalliance.org/accounts/942196-aaron-kessler/certifications/1068645-csm"
+#   date_start = "2019-05-01"
+#   date_end = ""
+#   description = ""
   
-
 [[item]]
   organization = "Finalist, Medium & Small Newspapers"
   organization_url = ""
@@ -45,7 +44,6 @@ date_format = "2006"
   date_start = "2011-01-09"
   description = ""
   
-  
 [[item]]
   organization = "Finalist, Beat Writing"
   organization_url = ""
@@ -53,8 +51,6 @@ date_format = "2006"
   url = ""
   date_start = "2010-01-10"
   description = ""
-  
-
   
 [[item]]
   organization = "Finalist"
@@ -103,9 +99,6 @@ date_format = "2006"
   date_start = "2011-01-04"
   description = ""
   
-
-  
-  
 [[item]]
   organization = "Winner, Explanatory Reporting"
   organization_url = ""
@@ -113,7 +106,6 @@ date_format = "2006"
   url = ""
   date_start = "2010-01-07"
   description = ""
-  
   
 [[item]]
   organization = "Winner, Best Radio Series (regional)"
@@ -138,6 +130,30 @@ date_format = "2006"
   url = ""
   date_start = "2011-01-03"
   description = ""
+
+[[item]]
+  organization = "Winner, International Reporting"
+  organization_url = ""
+  title = "Pulitzer Prize"
+  url = ""
+  date_start = "2026-05-15"
+  description = "(Part of the AP team recognized for reporting on tech companies' role in government surveillance in China, the U.S. and beyond.)"
+
+[[item]]
+  organization = "Finalist, International Outstanding Print/Online"
+  organization_url = ""
+  title = "Investigate Reporters & Editors Award"
+  url = ""
+  date_start = "2026-05-14"
+  description = "(Part of the AP team whose work was recognized.)"
   
+[[item]]
+  organization = "Winner, Malcolm Forbes and Morton Frank Award"
+  organization_url = ""
+  title = "Overseas Press Club Award"
+  url = ""
+  date_start = "2026-05-13"
+  description = "(Part of the AP team whose work was recognized.)"
+
 
 +++
