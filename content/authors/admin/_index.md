@@ -57,5 +57,5 @@ Additionally, he's led projects and initiatives to develop more innovative journ
 
 Aaron's a Certified Scrum Master who believes self-organized, empowered teams can fuel innovation not just in technology-driven settings but also for news reporting projects. He completed the elite Knight-Bagehot Fellowship in Business & Economics Journalism, a one year program of full-time MBA coursework at Columbia Business School for rigorous training in finance, management and leadership.
 
-He's also a longtime member of Investigative Reporters & Editors, for which he served on the board of directors and frequently speaks and leads training sessions. He also taught data journalism at The George Washington University for nearly 10 years.
+He's also a longtime member of Investigative Reporters & Editors, for which he served on the board of directors and frequently speaks and leads training sessions. He also taught data journalism for nearly a decade at The George Washington University.
 
