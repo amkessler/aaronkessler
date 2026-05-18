@@ -121,7 +121,7 @@ date_format = "2006"
   title = "National Academy of Television Arts & Sciences Emmy Award"
   url = ""
   date_start = "2016-01-01"
-  description = "(One of three reporters with bylines on winning stories submitted)"
+  description = "(One of three reporters whose work was recognized)"
 
 [[item]]
   organization = "Nominated by ProPublica and the Sarasota Herald-Tribune"
