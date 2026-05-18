@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
 * Work as part of the AP's national cross-functional data journalism team
+* Part of the AP team whose work received the 2026 Pulitzer Prize
 * Use data analysis and programming to produce stories of public importance 
 * Report on a range of topics, including extremist groups, campaign finance, government spending fraud, disinformation campaigns, political trends and faulty military equipment 
 * Collaborate with editors and reporters across the AP's global bureaus
