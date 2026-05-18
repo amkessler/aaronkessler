@@ -18,15 +18,15 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[item]]
-#   organization = "Scrum Alliance"
-#   organization_url = "https://www.scrumalliance.org/"
-#   title = "Certified Scrum Master (CSM)"
-#   url = ""
-#   # certificate_url = "https://certification.scrumalliance.org/accounts/942196-aaron-kessler/certifications/1068645-csm"
-#   date_start = "2019-05-01"
-#   date_end = ""
-#   description = ""
+[[item]]
+  organization = "Scrum Alliance"
+  organization_url = "https://www.scrumalliance.org/"
+  title = "Certified Scrum Master (CSM)"
+  url = ""
+  # certificate_url = "https://certification.scrumalliance.org/accounts/942196-aaron-kessler/certifications/1068645-csm"
+  date_start = "2026-05-01"
+  date_end = ""
+  description = ""
   
 [[item]]
   organization = "Finalist, Medium & Small Newspapers"
