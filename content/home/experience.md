@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 * Part of the AP team whose work received the 2026 Pulitzer Prize
 * Use data science/analysis and programming to produce stories of public importance 
 * Report on a range of topics, including immigration, extremist groups, campaign finance, government spending fraud, disinformation campaigns and faulty military equipment 
-* Collaborate with editors and reporters to manage data-driven projects across AP bureaus and coverage teams
+* Collaborate with editors and reporters to spearhead data-driven projects across AP bureaus and coverage teams
 * Embed with the AP's investigative and DC politics teams 
 * Develop agentic AI workflows for newsroom tasks, and develop standards and training for responsible use by AP journalists
 * Work with newsroom developers to create data-driven interactive experiences for news projects
