@@ -47,14 +47,14 @@ subtitle = ""
   name = "Teaching"
 
 [[feature]]
-  icon = "globe-americas"
-  icon_pack = "fas"
-  name = "Geospatial/Mapping"
-
-[[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "AI/Machine Learning"  
+  
+[[feature]]
+  icon = "globe-americas"
+  icon_pack = "fas"
+  name = "Geospatial/Mapping"
 
 [[feature]]
   icon = "lightbulb"

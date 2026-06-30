@@ -29,12 +29,15 @@ date_format = "Jan 2006"
   
 * Work as part of the AP's national cross-functional data journalism team
 * Part of the AP team whose work received the 2026 Pulitzer Prize
-* Use data analysis and programming to produce stories of public importance 
-* Report on a range of topics, including extremist groups, campaign finance, government spending fraud, disinformation campaigns, political trends and faulty military equipment 
-* Collaborate with editors and reporters across the AP's global bureaus
-* Embedded with the AP's investigative team and DC politics team 
-* Harness AI workflows for newsroom tasks and develop standards and training for responsible use
-* Work jointly with newsroom developers and designers to create interactive experiences aimed at providing valuable insights to the public
+* Use data science/analysis and programming to produce stories of public importance 
+* Report on a range of topics, including immigration, extremist groups, campaign finance, government spending fraud, disinformation campaigns and faulty military equipment 
+* Collaborate with editors and reporters to manage data-driven projects across AP bureaus 
+* Embed with the AP's investigative and DC politics teams 
+* Develop agentic AI workflows for newsroom tasks and develop standards/training for responsible use by AP journalists
+* Work with newsroom developers to create data-driven interactive experiences for news projects
+* Innovate and write code to build internal newsroom tooling and newsgathering resources
+* Coordinate multi-desk projects bringing together AP teams that have not traditionally worked with each other
+
 
   
   """  
@@ -48,16 +51,16 @@ date_format = "Jan 2006"
   date_start = "2020-01-06"
   date_end = "2022-01-30"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
-* Conducted investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, Covid-19, elections, lobbying and government contracts
-* Developed innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
-* Wrote software to analyze data and build reporting tools in reproducible ways 
-* Collaborated with editors and reporters across departments/verticals at Bloomberg Industry Group, Bloomberg News and CityLab
-* Cultivated key sources within the political, regulatory and business worlds
-* Obtained agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
-* Utilized Bloomberg's vast troves of financial data to fuel enterprise reporting efforts throughout the organization
-* Conducted internal training sessions in data journalism and investigative techniques
+* Conducting investigative reporting and data/geospatial analysis for stories involving federal agencies, Congress, Covid-19, elections, lobbying and government contracts
+* Developing innovative ways to tell data-driven stories through combinations of interactive, visual and narrative methods
+* Writing software to analyze data and build reporting tools in reproducible ways 
+* Collaborating with editors and reporters across departments/verticals at Bloomberg Industry Group, Bloomberg News and CityLab
+* Cultivating key sources within the political, regulatory and business worlds
+* Obtaining agency documents, communications and data through FOIA/sourcing to investigate issues of public concern
+* Utilizing Bloomberg's vast troves of financial data to fuel enterprise reporting efforts throughout the organization
+* Conducting internal training sessions in data journalism and investigative techniques
 
   
   """  
