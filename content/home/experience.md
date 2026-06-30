@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Washington, DC area"
   date_start = "2020-01-06"
-  date_end = "2022-02-09"
+  date_end = "2022-01-30"
   description = """
   Responsibilities include:
   
