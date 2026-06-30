@@ -33,6 +33,7 @@ date_format = "Jan 2006"
 * Report on a range of topics, including extremist groups, campaign finance, government spending fraud, disinformation campaigns, political trends and faulty military equipment 
 * Collaborate with editors and reporters across the AP's global bureaus
 * Embedded with the AP's investigative team and DC politics team 
+* Harness AI workflows for newsroom tasks and develop standards and training for responsible use
 * Work jointly with newsroom developers and designers to create interactive experiences aimed at providing valuable insights to the public
 
   
@@ -65,7 +66,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Producer, Investigations/Politics"
   company = "CNN"
-  company_url = "https://www.cnn.com/"
+  company_url = ""
   location = "Washington, DC"
   date_start = "2016-11-15"
   date_end = "2019-10-31"
@@ -119,7 +120,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Business/Automotive Writer"
   company = "The New York Times"
-  company_url = "https://www.nytimes.com/"
+  company_url = ""
   location = "Washington, DC"
   date_start = "2014-06-01"
   date_end = "2015-11-01"
@@ -139,7 +140,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Staff Writer"
   company = "100Reporters"
-  company_url = "https://100r.org/"
+  company_url = ""
   location = "Washington, DC"
   date_start = "2011-11-01"
   date_end = "2013-07-01"
@@ -156,7 +157,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Business Reporter"
   company = "Sarasota Herald-Tribune"
-  company_url = "https://www.heraldtribune.com/"
+  company_url = ""
   location = "Sarasota, FL"
   date_start = "2007-12-01"
   date_end = "2011-04-01"
