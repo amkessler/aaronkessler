@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company = "Bloomberg Industry Group"
   company_url = ""
   location = "Washington, DC area"
-  date_start = "2020-01-06"
+  date_start = "2020-02-05"
   date_end = "2022-01-30"
   description = """
   Responsibilities included:
