@@ -4,10 +4,10 @@ external_link: https://apnews.com/article/ice-immigration-detention-medical-negl
 image:
   caption: 
   focal_point: Smart
-summary: From festering infections to untreated cancer, hundreds in immigration detention are facing adequate medical care
+summary: From festering infections to untreated cancer, hundreds in immigration detention face inadequate medical care
 tags:
 - Investigative
 - Health
 - Justice
-title: ICE detainees across the US describe medical neglect
+title: ICE detainees face medical neglect
 ---
